@@ -1,0 +1,1193 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Orchestra-Research/AI-Research-SKILLs",
+          "description": "Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-16T01:36:46Z",
+            "owner": "Orchestra-Research",
+            "repo": "AI-Research-SKILLs",
+            "stars": 11651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davebcn87/pi-autoresearch",
+          "description": "extension plus dashboard for persistent experiment loops, live metrics, confidence tracking, and resumable autoresearch sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T13:50:35Z",
+            "owner": "davebcn87",
+            "repo": "pi-autoresearch",
+            "stars": 7575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gepa-ai/gepa",
+          "description": "GEPA (Genetic-Pareto) — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T18:02:58Z",
+            "owner": "gepa-ai",
+            "repo": "gepa",
+            "stars": 6098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uditgoenka/autoresearch",
+          "description": "Claude Code skill that generalizes autoresearch into a reusable loop for software, docs, security, shipping, debugging, and other measurable goals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T22:28:18Z",
+            "owner": "uditgoenka",
+            "repo": "autoresearch",
+            "stars": 5822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/ClawTeam",
+          "description": "Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T07:25:56Z",
+            "owner": "HKUDS",
+            "repo": "ClawTeam",
+            "stars": 5485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leo-lilinxiao/codex-autoresearch",
+          "description": "Codex-native autoresearch skill with resume support, lessons across runs, optional parallel experiments, and mode-specific workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T13:53:30Z",
+            "owner": "leo-lilinxiao",
+            "repo": "codex-autoresearch",
+            "stars": 2123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShengranHu/ADAS",
+          "description": "Automated Design of Agentic Systems — ICLR 2025. Meta-agents that invent novel agent architectures by programming them in code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T06:37:51Z",
+            "owner": "ShengranHu",
+            "repo": "ADAS",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WecoAI/aideml",
+          "description": "AIDE: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:12:00Z",
+            "owner": "WecoAI",
+            "repo": "aideml",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greyhaven-ai/autocontext",
+          "description": "Closed-loop control plane for repeated agent improvement, with evaluation, persistent knowledge, staged validation, and optional distillation into cheaper local runtimes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:44:26Z",
+            "owner": "greyhaven-ai",
+            "repo": "autocontext",
+            "stars": 1270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentient-agi/EvoSkill",
+          "description": "Automated skill discovery for coding agents: evolves reusable skills and prompts from failed trajectories against benchmarks, with support for Claude Code, Codex CLI, OpenCode, OpenHands, and Goose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T07:32:44Z",
+            "owner": "sentient-agi",
+            "repo": "EvoSkill",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peterskoett/self-improving-agent",
+          "description": "Alternative self-improving agent architecture with reflection and meta-learning cycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T06:53:05Z",
+            "owner": "pskoett",
+            "repo": "self-improving-agent",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mutable-state-inc/autoresearch-at-home",
+          "description": "Collaborative fork of upstream autoresearch that adds experiment claiming, shared best-config syncing, hypothesis exchange, and swarm-style coordination across many single-GPU agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T01:13:40Z",
+            "owner": "mutable-state-inc",
+            "repo": "autoresearch-at-home",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metauto-ai/HGM",
+          "description": "Huxley-Gödel Machine for coding agents — applies self-improvement to SWE-bench performance via meta-level optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T21:30:42Z",
+            "owner": "metauto-ai",
+            "repo": "HGM",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaximeRobeyns/self_improving_coding_agent",
+          "description": "SICA: Self-Improving Coding Agent that edits its own codebase. ICLR 2025 Workshop paper demonstrating scaffold-level self-improvement on coding benchmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-23T23:28:42Z",
+            "owner": "MaximeRobeyns",
+            "repo": "self_improving_coding_agent",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drivelineresearch/autoresearch-claude-code",
+          "description": "Claude Code plugin/skill port of , with a clean experiment-loop workflow and a concrete biomechanics case study.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T05:27:53Z",
+            "owner": "drivelineresearch",
+            "repo": "autoresearch-claude-code",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kayba-ai/recursive-improve",
+          "description": "Recursive self-improvement framework where agents capture execution traces, analyze failure patterns, and apply targeted fixes with keep-or-revert evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T23:03:57Z",
+            "owner": "kayba-ai",
+            "repo": "recursive-improve",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmilinovich/goal-md",
+          "description": "Generalizes autoresearch into a pattern for repos where the agent must first construct a measurable fitness function before it can optimize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-03T22:09:41Z",
+            "owner": "jmilinovich",
+            "repo": "goal-md",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zkarimi22/autoresearch-anything",
+          "description": "Generalizes autoresearch to any measurable metric — system prompts, API performance, landing pages, test suites, config tuning, SQL queries. \"If you can measure it, you can optimize it.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-09T05:42:05Z",
+            "owner": "zkarimi22",
+            "repo": "autoresearch-anything",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Necmttn/ax",
+          "description": "Local retro loop for AI coding agents: captures session traces, turns repeated friction into proposals, and tracks accepted fixes as experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T03:53:49Z",
+            "owner": "Necmttn",
+            "repo": "ax",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeeleAI/Thoth",
+          "description": "Dashboard-first Claude Code and Codex runtime for autoresearch, with durable runs, locked work items, visible ledgers, and reviewable verdicts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:25:14Z",
+            "owner": "SeeleAI",
+            "repo": "Thoth",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supratikpm/gemini-autoresearch",
+          "description": "Gemini CLI skill that generalises autoresearch to any measurable goal. Gemini-native: uses Google Search grounding as a live verification source inside the loop, true headless overnight mode via --yolo --prompt, and 1M token context. Also works in Antigravity IDE via .agents/skills/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T10:37:37Z",
+            "owner": "supratikpm",
+            "repo": "gemini-autoresearch",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrTsepa/autoevolve",
+          "description": "GEPA-inspired autoresearch for self-play: mutate code strategies, evaluate head-to-head, rate with Elo/Bradley-Terry, branch from the Pareto front. Agent reads match traces to target mutations. Works as a Claude Code skill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T17:02:22Z",
+            "owner": "MrTsepa",
+            "repo": "autoevolve",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vukrosic/auto-research",
+          "description": "Docs-only control plane for an open autonomous AI research lab — file-based operating model for human direction and agent execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-04T08:16:32Z",
+            "owner": "vukrosic",
+            "repo": "auto-research",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entrpi/autoresearch-everywhere",
+          "description": "Cross-platform expansion that auto-detects hardware config and starts the loop. The \"glue and generalization\" half of autoresearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T02:38:18Z",
+            "owner": "Entrpi",
+            "repo": "autoresearch-everywhere",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "james-s-tayler/lazy-developer",
+          "description": "Claude Code skill that orchestrates autoresearch across a prioritized sequence of optimization goals (coverage, test speed, build speed, complexity, LOC, performance) using GOAL.md as the engine. Supports standalone and Ralph Mode multi-instance execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T13:48:55Z",
+            "owner": "james-s-tayler",
+            "repo": "lazy-developer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "junjunjunbong/research-loop",
+          "description": "Autoresearch-style Agent Skill for Codex and Claude Code with a deterministic runner, plan-hash approval, isolated Git worktrees, authoritative metric evaluation, and an append-only experiment ledger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T16:14:14Z",
+            "owner": "junjunjunbong",
+            "repo": "research-loop",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🛠️ General-purpose descendants"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+          "description": "Markdown-first research workflows for Claude Code and other agents, centered on autonomous literature review, experiments, paper iteration, and cross-model critique.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:58:24Z",
+            "owner": "wanshuiyin",
+            "repo": "Auto-claude-code-research-in-sleep",
+            "stars": 14616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SakanaAI/AI-Scientist",
+          "description": "The AI Scientist: First comprehensive system for fully automatic scientific discovery. From idea generation to paper writing with minimal human supervision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-19T07:46:21Z",
+            "owner": "SakanaAI",
+            "repo": "AI-Scientist",
+            "stars": 14386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiming-lab/AutoResearchClaw",
+          "description": "End-to-end research pipeline that turns a topic into literature review, experiments, analysis, peer review, and paper drafts; broader than autoresearch, but clearly in the same lineage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T08:57:26Z",
+            "owner": "aiming-lab",
+            "repo": "AutoResearchClaw",
+            "stars": 14014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SakanaAI/AI-Scientist-v2",
+          "description": "Workshop-level automated scientific discovery via agentic tree search. Removes template dependency from v1, generalizes across research domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-19T07:46:32Z",
+            "owner": "SakanaAI",
+            "repo": "AI-Scientist-v2",
+            "stars": 7000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SamuelSchmidgall/AgentLaboratory",
+          "description": "End-to-end autonomous research workflow: idea → literature review → experiments → report. Supports both autonomous and co-pilot modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T21:46:43Z",
+            "owner": "SamuelSchmidgall",
+            "repo": "AgentLaboratory",
+            "stars": 5792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/AI-Researcher",
+          "description": "NeurIPS 2025 paper. Full end-to-end research automation: hypothesis → experiments → manuscript → peer review. Production version at novix.science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T06:47:34Z",
+            "owner": "HKUDS",
+            "repo": "AI-Researcher",
+            "stars": 5669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperspaceai/agi",
+          "description": "Distributed, peer-to-peer research network where autonomous agents run experiments, gossip findings, maintain CRDT leaderboards, and archive results to GitHub across multiple research domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T03:25:27Z",
+            "owner": "hyperspaceai",
+            "repo": "agi",
+            "stars": 2021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skyllwt/AutoSci",
+          "description": "Wiki-centric full-lifecycle research platform built on Claude Code, realizing Karpathy's LLM-Wiki vision. 20+ skills cover the full loop: ingest → ideate → novelty check → experiment design / run / eval → paper writing. Research state lives in a structured knowledge wiki with an interactive graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:18:32Z",
+            "owner": "skyllwt",
+            "repo": "AutoSci",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRaiser/NanoResearch",
+          "description": "End-to-end autonomous research engine that plans experiments, generates code, runs jobs locally or on SLURM, analyzes real results, and writes papers grounded in those outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T09:16:37Z",
+            "owner": "OpenRaiser",
+            "repo": "NanoResearch",
+            "stars": 1421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Human-Agent-Society/CORAL",
+          "description": "CORAL: Autonomous multi-agent evolution for open-ended discovery (arXiv:2604.01658). Long-running agents with shared persistent memory, asynchronous execution, and heartbeat-based interventions; SOTA on 10 math/algorithmic/systems tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:40:48Z",
+            "owner": "Human-Agent-Society",
+            "repo": "CORAL",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eimenhmdt/autoresearcher",
+          "description": "Early open-source package for automating scientific workflows, currently centered on literature-review generation with an ambition toward broader autonomous research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T17:05:09Z",
+            "owner": "eimenhmdt",
+            "repo": "autoresearcher",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sibyl-Research-Team/AutoResearch-SibylSystem",
+          "description": "Fully autonomous AI scientist built on Claude Code, with explicit AutoResearch lineage, multi-agent research iteration, GPU experiment execution, and a self-evolving outer loop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T04:32:57Z",
+            "owner": "Sibyl-Research-Team",
+            "repo": "AutoResearch-SibylSystem",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AweAI-Team/AiScientist",
+          "description": "AiScientist: long-horizon ML research lab with hierarchical orchestration and File-as-Bus coordination — workspace files act as the durable system of record. Drives autonomous paper-reproduction (PaperBench) and competition-style MLE-Bench iteration loops under fixed compute/time budgets. (arXiv 2604.13018)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:30:52Z",
+            "owner": "AweAI-Team",
+            "repo": "AiScientist",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PouriaRouzrokh/LatteReview",
+          "description": "Low-code Python package for automated systematic literature reviews via AI-powered agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-10T20:11:13Z",
+            "owner": "PouriaRouzrokh",
+            "repo": "LatteReview",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MASWorks/ML-Agent",
+          "description": "Reinforcing LLM agents for autonomous ML engineering. Learns from trial and error to improve model performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-21T18:17:12Z",
+            "owner": "MASWorks",
+            "repo": "ML-Agent",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "du-nlp-lab/MLR-Copilot",
+          "description": "Autonomous ML research framework — generates ideas, implements experiments, analyzes results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T04:15:55Z",
+            "owner": "du-nlp-lab",
+            "repo": "MLR-Copilot",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JinheonBaek/ResearchAgent",
+          "description": "Iterative research idea generation over scientific literature with LLMs. Multi-agent review and feedback loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T11:34:59Z",
+            "owner": "JinheonBaek",
+            "repo": "ResearchAgent",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LitLLM/LitLLM",
+          "description": "AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T19:50:43Z",
+            "owner": "LitLLM",
+            "repo": "LitLLM",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoResearch-Factory/Agon",
+          "description": "End-to-end research orchestrator built on one cornerstone principle, Prompt Economy (reusable loops, not one-off prompts), plus five supporting rules; runs scientist/coder/auditor loops across 10+ disciplines, same reusable-loop lineage as autoresearch but scaled to full research programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T08:15:58Z",
+            "owner": "AutoResearch-Factory",
+            "repo": "Agon",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaust-ark/ARK",
+          "description": "ARK (Automatic Research Kit): idea + venue → paper pipeline orchestrating 6 agents — proposal analysis, literature search, Slurm experiments, LaTeX drafting, iterative peer review. Controlled via CLI, web dashboard, or Telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:05:06Z",
+            "owner": "kaust-ark",
+            "repo": "ARK",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "happyhappy-jun/writing-driven-autoresearch",
+          "description": "Autoresearch-style harness that keeps a submittable paper from the first minute and drives every experiment from the claims in that draft, looping modify → measure → verify → revise. 1st place at the Ralphthon@ICML 2026 autonomous-research hackathon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T11:01:22Z",
+            "owner": "happyhappy-jun",
+            "repo": "writing-driven-autoresearch",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openags/Auto-Research",
+          "description": "OpenAGS: Orchestrates a team of AI agents across the full research lifecycle — lit review, hypothesis generation, experiments, manuscript writing, and peer review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T09:00:24Z",
+            "owner": "openags",
+            "repo": "auto-researcher",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "🔬 Research-agent systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Colab/Kaggle T4 port",
+          "description": "Adapts autoresearch for free T4 GPUs (Google Colab / Kaggle) with zero cost and zero local setup. Key changes: Flash Attention 3 → PyTorch SDPA, removes H100-only kernel dependency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T00:07:37Z",
+            "owner": "karpathy",
+            "repo": "autoresearch",
+            "stars": 93754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miolini/autoresearch-macos",
+          "description": "Widely adopted macOS fork that adapts upstream autoresearch for Apple Silicon / MPS while preserving the original loop shape.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T22:39:09Z",
+            "owner": "miolini",
+            "repo": "autoresearch-macos",
+            "stars": 2362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trevin-creator/autoresearch-mlx",
+          "description": "MLX-native Apple Silicon port that keeps the upstream fixed-budget loop while removing the PyTorch/CUDA dependency entirely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T13:49:49Z",
+            "owner": "trevin-creator",
+            "repo": "autoresearch-mlx",
+            "stars": 1794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsegov/autoresearch-win-rtx",
+          "description": "Windows-native RTX fork focused on consumer NVIDIA GPUs, with explicit VRAM floors and a practical desktop setup path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T17:47:24Z",
+            "owner": "jsegov",
+            "repo": "autoresearch-win-rtx",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gianfrancopiana/openclaw-autoresearch",
+          "description": "OpenClaw port of pi-autoresearch; autonomous experiment loop for any optimization target with statistical confidence scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T14:42:19Z",
+            "owner": "gianfrancopiana",
+            "repo": "openclaw-autoresearch",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iii-hq/n-autoresearch",
+          "description": "Multi-GPU autoresearch infrastructure with structured experiment tracking, adaptive search strategy, crash recovery, and queryable orchestration around the classic loop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T23:22:43Z",
+            "owner": "iii-experimental",
+            "repo": "n-autoresearch",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucasgelfond/autoresearch-webgpu",
+          "description": "Browser/WebGPU port that lets agents generate training code, run experiments in-browser, and feed results back into the loop without a Python setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-16T16:01:49Z",
+            "owner": "lucasgelfond",
+            "repo": "autoresearch-webgpu",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tonitangpotato/autoresearch-engram",
+          "description": "Fork with persistent cognitive memory — frequency-weighted retrieval of cross-session knowledge for improved experiment continuity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T16:12:09Z",
+            "owner": "tonitangpotato",
+            "repo": "autoresearch-engram",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArmanJR-Lab/autoautoresearch",
+          "description": "Jetson AGX Orin port with a director — a Go binary that acts as a \"creative director\" injecting novelty (arxiv papers + DeepSeek Reasoner) into the loop to escape local minima. Includes multi-experiment comparison (baseline vs director-guided) with detailed stall analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T04:10:09Z",
+            "owner": "ArmanJR-Lab",
+            "repo": "autoautoresearch",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "💻 Platform ports and hardware forks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chrisworsey55/atlas-gic",
+          "description": "Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T19:40:53Z",
+            "owner": "chrisworsey55",
+            "repo": "atlas-gic",
+            "stars": 2080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RightNow-AI/autokernel",
+          "description": "Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T03:13:43Z",
+            "owner": "RightNow-AI",
+            "repo": "autokernel",
+            "stars": 1514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mattprusak/autoresearch-genealogy",
+          "description": "Applies the autoresearch pattern to genealogy, using structured prompts, archive guides, source checks, and vault workflows to iteratively expand and verify family-history research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-30T03:46:55Z",
+            "owner": "mattprusak",
+            "repo": "autoresearch-genealogy",
+            "stars": 1160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArchishmanSengupta/autovoiceevals",
+          "description": "Uses adversarial callers plus keep-or-revert prompt edits to harden voice AI agents across Vapi, Smallest AI, and ElevenLabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T14:25:31Z",
+            "owner": "ArchishmanSengupta",
+            "repo": "autovoiceevals",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vlasenkoalexey/tpu_performance_autoresearch_wiki",
+          "description": "Applies the autoresearch keep-or-revert loop to TPU model performance (MFU / tokens-per-sec) on v6e hardware: profiles each run through an XProf MCP server, makes one model-code change per experiment, and keeps or reverts against measured MFU. Pairs the loop with a Karpathy-style LLM wiki for domain knowledge and per-experiment optimization traces; includes Llama3-8B and Qwen3-8B case studies across JAX and torchax lanes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T23:39:26Z",
+            "owner": "vlasenkoalexey",
+            "repo": "tpu_performance_autoresearch_wiki",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElliotXie/autozyme",
+          "description": "Multi-agent framework that applies the autoresearch keep-or-revert loop to CPU-side scientific software: profile a target function, generate one optimization candidate, benchmark for speed while preserving the original outputs, keep or revert, repeat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T22:00:59Z",
+            "owner": "ElliotXie",
+            "repo": "autozyme",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Analytics/autoresearch-growth",
+          "description": "Applies autoresearch to landing-page positioning and A/B test candidates, using analytics snapshots and measured experiment results to seed subsequent rounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T22:29:57Z",
+            "owner": "Agent-Analytics",
+            "repo": "autoresearch-growth",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rkcr7/autoresearch-sudoku",
+          "description": "Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-21T05:53:57Z",
+            "owner": "Rkcr7",
+            "repo": "autoresearch-sudoku",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jeongph/autospec",
+          "description": "Reads natural-language business rules and autonomously builds a Spring Boot service with tests via the keep-or-revert loop. Evaluates with Gradle build + JUnit XML. 119-line skeleton to 950 lines in 5 cycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T04:58:32Z",
+            "owner": "jeongph",
+            "repo": "autospec",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "🎯 Domain-specific adaptations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "THUDM/AgentBench",
+          "description": "Comprehensive benchmark for LLM-as-Agent evaluation across 8 distinct environments. ICLR 2024.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI/mle-bench",
+          "description": "OpenAI's benchmark for measuring how well AI agents perform at ML engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T17:33:44Z",
+            "owner": "openai",
+            "repo": "mle-bench",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snap-stanford/MLAgentBench",
+          "description": "Benchmark suite for evaluating AI agents on ML experimentation tasks. 13 tasks from CIFAR-10 to BabyLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-19T13:53:23Z",
+            "owner": "snap-stanford",
+            "repo": "MLAgentBench",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gersteinlab/ML-Bench",
+          "description": "Evaluates LLMs and agents for ML tasks on repository-level code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T08:53:58Z",
+            "owner": "gersteinlab",
+            "repo": "ML-Bench",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chchenhui/mlrbench",
+          "description": "MLR-Bench: Evaluating AI agents on open-ended ML research. 201 tasks from NeurIPS/ICLR/ICML workshops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T11:03:30Z",
+            "owner": "chchenhui",
+            "repo": "mlrbench",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "📊 Evaluation & benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shopify Liquid optimization",
+          "description": "Tobi Lütke shared an autoresearch-style optimization run on Shopify's Liquid engine, with public traces showing major parse/render speedups and allocation reductions. (tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-07T16:30:57Z",
+            "owner": "Shopify",
+            "repo": "liquid",
+            "stars": 11853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tennis XGBoost prediction + reward hacking writeup",
+          "description": "Nick Oak documents an autoresearch-inspired loop for tennis match prediction, including where the optimization setup went wrong. (repo · gamed branch)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-17T12:37:54Z",
+            "owner": "buildoak",
+            "repo": "tennis-xgboost-autoresearch",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "📈 Notable use cases and writeups"
+    },
+    {
+      "description": "Curated lists and paper collections for AI agents, autonomous systems, and automated research:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-ai-agent-papers",
+          "description": "Curated AI agent papers from 2026 — agent engineering, memory, evaluation, workflows, and autonomous systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T19:22:41Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-ai-agent-papers",
+            "stars": 1679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "masamasa59/ai-agent-papers",
+          "description": "AI agent research papers updated biweekly via automated arxiv search with curated selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T06:15:53Z",
+            "owner": "masamasa59",
+            "repo": "ai-agent-papers",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmgthb/Autonomous-Agents",
+          "description": "Autonomous agents research papers, updated daily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-24T17:03:27Z",
+            "owner": "tmgthb",
+            "repo": "Autonomous-Agents",
+            "stars": 1366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WecoAI/awesome-autoresearch",
+          "description": "Curated list of AutoResearch use cases with verifiable traces and progress charts, organized by domain (LLM training, GPU kernels, voice agents, trading, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T21:24:08Z",
+            "owner": "WecoAI",
+            "repo": "awesome-autoresearch",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-agents-2030/awesome-deep-research-agent",
+          "description": "Curated list of deep research agent papers and systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-18T18:48:52Z",
+            "owner": "WuizaKaseiyo",
+            "repo": "awesome-deep-research-agent",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUST-KnowComp/Awesome-LLM-Scientific-Discovery",
+          "description": "EMNLP 2025 survey on LLMs in scientific discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-03T14:51:48Z",
+            "owner": "HKUST-KnowComp",
+            "repo": "Awesome-LLM-Scientific-Discovery",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoungDubbyDu/LLM-Agent-Optimization",
+          "description": "Papers on LLM agent optimization methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T07:19:33Z",
+            "owner": "YoungDubbyDu",
+            "repo": "Awesome-LLM-Agent-Optimization-Papers",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openags/Awesome-AI-Scientist-Papers",
+          "description": "Collection of AI Scientist / Robot Scientist papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T06:32:08Z",
+            "owner": "openags",
+            "repo": "Awesome-AI-Scientist-Papers",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "📚 Related resources"
+    },
+    {
+      "description": "This list is released under CC0-1.0.",
+      "items": [],
+      "title": "📄 License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:01.111Z",
+    "original_repository": "webfuse-com/awesome-autoresearch",
+    "original_repository_sha": "54262586685a3f8b4f287543b4122b0e870236ab",
+    "enhanced_repository": "enhansome/enhansome-autoresearch",
+    "enhanced_repository_description": null,
+    "title": "🔬 Awesome Autoresearch with stars"
+  }
+}
