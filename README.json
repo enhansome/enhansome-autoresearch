@@ -14,7 +14,7 @@
             "last_commit": "2026-06-16T01:36:46Z",
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 11695
+            "stars": 11722
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-15T13:50:35Z",
             "owner": "davebcn87",
             "repo": "pi-autoresearch",
-            "stars": 7588
+            "stars": 7592
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T04:13:59Z",
+            "last_commit": "2026-08-15T05:39:52Z",
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6116
+            "stars": 6124
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-12T22:28:18Z",
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 5824
+            "stars": 5831
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-05-09T07:25:56Z",
             "owner": "HKUDS",
             "repo": "ClawTeam",
-            "stars": 5486
+            "stars": 5494
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-07-13T13:53:30Z",
             "owner": "leo-lilinxiao",
             "repo": "codex-autoresearch",
-            "stars": 2140
+            "stars": 2144
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:04:18Z",
+            "last_commit": "2026-08-15T04:12:26Z",
             "owner": "greyhaven-ai",
             "repo": "autocontext",
-            "stars": 1269
+            "stars": 1271
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-06T07:32:44Z",
             "owner": "sentient-agi",
             "repo": "EvoSkill",
-            "stars": 1117
+            "stars": 1118
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-06T06:53:05Z",
             "owner": "pskoett",
             "repo": "self-improving-agent",
-            "stars": 731
+            "stars": 732
           }
         },
         {
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:06:59Z",
+            "last_commit": "2026-08-15T11:47:30Z",
             "owner": "Necmttn",
             "repo": "ax",
             "stars": 94
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-11T10:58:24Z",
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 14676
+            "stars": 14718
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2025-12-19T07:46:21Z",
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14391
+            "stars": 14395
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-07-13T08:57:26Z",
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14021
+            "stars": 14030
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2025-10-16T06:47:34Z",
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5674
+            "stars": 5676
           }
         },
         {
@@ -465,10 +465,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T13:27:28Z",
+            "last_commit": "2026-08-15T13:28:39Z",
             "owner": "hyperspaceai",
             "repo": "agi",
-            "stars": 2022
+            "stars": 2024
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-08-12T07:18:32Z",
             "owner": "skyllwt",
             "repo": "AutoSci",
-            "stars": 1631
+            "stars": 1632
           }
         },
         {
@@ -507,10 +507,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T04:40:48Z",
+            "last_commit": "2026-08-15T05:10:42Z",
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 888
+            "stars": 890
           }
         },
         {
@@ -633,7 +633,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-02T08:15:58Z",
+            "last_commit": "2026-08-14T18:31:43Z",
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
             "stars": 39
@@ -647,7 +647,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:59:01Z",
+            "last_commit": "2026-08-14T19:59:24Z",
             "owner": "kaust-ark",
             "repo": "ARK",
             "stars": 33
@@ -698,7 +698,7 @@
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 93837
+            "stars": 93888
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2026-03-17T22:39:09Z",
             "owner": "miolini",
             "repo": "autoresearch-macos",
-            "stars": 2362
+            "stars": 2364
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2026-07-02T13:49:49Z",
             "owner": "trevin-creator",
             "repo": "autoresearch-mlx",
-            "stars": 1797
+            "stars": 1801
           }
         },
         {
@@ -740,7 +740,7 @@
             "last_commit": "2026-03-14T17:47:24Z",
             "owner": "jsegov",
             "repo": "autoresearch-win-rtx",
-            "stars": 710
+            "stars": 711
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-05-27T19:40:53Z",
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 2080
+            "stars": 2081
           }
         },
         {
@@ -844,7 +844,7 @@
             "last_commit": "2026-03-19T03:13:43Z",
             "owner": "RightNow-AI",
             "repo": "autokernel",
-            "stars": 1517
+            "stars": 1519
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3668
+            "stars": 3669
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2026-08-07T16:30:57Z",
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11855
+            "stars": 11857
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "last_commit": "2026-08-07T19:22:41Z",
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-06-30T06:15:53Z",
             "owner": "masamasa59",
             "repo": "ai-agent-papers",
-            "stars": 1603
+            "stars": 1604
           }
         },
         {
@@ -1114,7 +1114,7 @@
             "last_commit": "2026-07-30T21:24:08Z",
             "owner": "WecoAI",
             "repo": "awesome-autoresearch",
-            "stars": 1029
+            "stars": 1030
           }
         },
         {
@@ -1128,7 +1128,7 @@
             "last_commit": "2025-09-18T18:48:52Z",
             "owner": "WuizaKaseiyo",
             "repo": "awesome-deep-research-agent",
-            "stars": 634
+            "stars": 633
           }
         },
         {
@@ -1183,7 +1183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:16:32.974Z",
+    "last_updated": "2026-08-15T13:32:07.176Z",
     "original_repository": "webfuse-com/awesome-autoresearch",
     "original_repository_sha": "54262586685a3f8b4f287543b4122b0e870236ab",
     "enhanced_repository": "enhansome/enhansome-autoresearch",
