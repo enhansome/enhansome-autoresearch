@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1088558237,
             "language": "TeX",
             "last_commit": "2026-06-16T01:36:46Z",
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 11801
+            "stars": 11828
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179229480,
             "language": "TypeScript",
             "last_commit": "2026-07-15T13:50:35Z",
             "owner": "davebcn87",
             "repo": "pi-autoresearch",
-            "stars": 7630
+            "stars": 7641
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032419366,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T17:24:07Z",
+            "last_commit": "2026-08-18T20:19:43Z",
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6144
+            "stars": 6160
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180917769,
             "language": "Shell",
             "last_commit": "2026-08-12T22:28:18Z",
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 5905
+            "stars": 5910
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184391618,
             "language": "Python",
             "last_commit": "2026-05-09T07:25:56Z",
             "owner": "HKUDS",
             "repo": "ClawTeam",
-            "stars": 5498
+            "stars": 5502
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184866064,
             "language": "Python",
             "last_commit": "2026-07-13T13:53:30Z",
             "owner": "leo-lilinxiao",
             "repo": "codex-autoresearch",
-            "stars": 2156
+            "stars": 2169
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 836330793,
             "language": "Python",
             "last_commit": "2025-01-28T06:37:51Z",
             "owner": "ShengranHu",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 781524183,
             "language": "Python",
             "last_commit": "2026-08-17T11:23:43Z",
             "owner": "WecoAI",
             "repo": "aideml",
-            "stars": 1479
+            "stars": 1482
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155776799,
             "language": "Python",
             "last_commit": "2026-08-17T18:49:41Z",
             "owner": "greyhaven-ai",
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1172896941,
             "language": "Python",
             "last_commit": "2026-07-06T07:32:44Z",
             "owner": "sentient-agi",
             "repo": "EvoSkill",
-            "stars": 1126
+            "stars": 1129
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146572108,
             "language": "JavaScript",
             "last_commit": "2026-08-06T06:53:05Z",
             "owner": "pskoett",
             "repo": "self-improving-agent",
-            "stars": 732
+            "stars": 733
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177343789,
             "language": "Python",
             "last_commit": "2026-03-13T01:13:40Z",
             "owner": "mutable-state-inc",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082563722,
             "language": "Python",
             "last_commit": "2026-02-07T21:30:42Z",
             "owner": "metauto-ai",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964814692,
             "language": "Python",
             "last_commit": "2025-04-23T23:28:42Z",
             "owner": "MaximeRobeyns",
@@ -206,11 +220,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180304182,
             "language": "Python",
             "last_commit": "2026-07-05T05:27:53Z",
             "owner": "drivelineresearch",
             "repo": "autoresearch-claude-code",
-            "stars": 340
+            "stars": 341
           }
         },
         {
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194570484,
             "language": "Python",
             "last_commit": "2026-03-31T23:03:57Z",
             "owner": "kayba-ai",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179553355,
             "language": "Shell",
             "last_commit": "2026-05-03T22:09:41Z",
             "owner": "jmilinovich",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176535923,
             "language": "JavaScript",
             "last_commit": "2026-03-09T05:42:05Z",
             "owner": "zkarimi22",
@@ -262,8 +280,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232710515,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:43:22Z",
+            "last_commit": "2026-08-19T07:27:52Z",
             "owner": "Necmttn",
             "repo": "ax",
             "stars": 95
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1219710688,
             "language": "Python",
             "last_commit": "2026-08-09T18:25:14Z",
             "owner": "SeeleAI",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191483618,
             "language": "JavaScript",
             "last_commit": "2026-03-27T10:37:37Z",
             "owner": "supratikpm",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178394202,
             "language": "Python",
             "last_commit": "2026-06-18T17:02:22Z",
             "owner": "MrTsepa",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1188401129,
             "language": null,
             "last_commit": "2026-04-04T08:16:32Z",
             "owner": "vukrosic",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177375645,
             "language": "Python",
             "last_commit": "2026-03-23T02:38:18Z",
             "owner": "Entrpi",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191789009,
             "language": null,
             "last_commit": "2026-03-31T13:48:55Z",
             "owner": "james-s-tayler",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1301311766,
             "language": "Python",
             "last_commit": "2026-07-31T16:14:14Z",
             "owner": "junjunjunbong",
@@ -371,7 +397,7 @@
       "title": "🛠️ General-purpose descendants"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177608268,
             "language": "Python",
             "last_commit": "2026-08-18T03:45:44Z",
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 14852
+            "stars": 14897
           }
         },
         {
@@ -394,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841376583,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-19T07:46:21Z",
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14417
+            "stars": 14425
           }
         },
         {
@@ -408,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182108611,
             "language": "Python",
-            "last_commit": "2026-07-13T08:57:26Z",
+            "last_commit": "2026-08-19T03:35:13Z",
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14039
+            "stars": 14043
           }
         },
         {
@@ -422,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962431643,
             "language": "Python",
             "last_commit": "2025-12-19T07:46:32Z",
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7021
+            "stars": 7028
           }
         },
         {
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 913598542,
             "language": "Python",
             "last_commit": "2025-08-20T21:46:43Z",
             "owner": "SamuelSchmidgall",
@@ -450,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946632749,
             "language": "Python",
             "last_commit": "2025-10-16T06:47:34Z",
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5682
+            "stars": 5685
           }
         },
         {
@@ -464,8 +496,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176335208,
             "language": null,
-            "last_commit": "2026-08-18T13:29:59Z",
+            "last_commit": "2026-08-19T12:04:11Z",
             "owner": "hyperspaceai",
             "repo": "agi",
             "stars": 2024
@@ -478,11 +511,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206036567,
             "language": "Python",
-            "last_commit": "2026-08-12T07:18:32Z",
+            "last_commit": "2026-08-19T08:53:30Z",
             "owner": "skyllwt",
             "repo": "AutoSci",
-            "stars": 1637
+            "stars": 1640
           }
         },
         {
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184170771,
             "language": "Python",
             "last_commit": "2026-05-26T09:16:37Z",
             "owner": "OpenRaiser",
@@ -506,11 +541,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183057754,
             "language": "Python",
             "last_commit": "2026-08-15T05:10:42Z",
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 895
+            "stars": 898
           }
         },
         {
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625373319,
             "language": "Python",
             "last_commit": "2024-08-15T17:05:09Z",
             "owner": "eimenhmdt",
@@ -534,11 +571,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176132782,
             "language": "Python",
             "last_commit": "2026-03-25T04:32:57Z",
             "owner": "Sibyl-Research-Team",
             "repo": "AutoResearch-SibylSystem",
-            "stars": 272
+            "stars": 274
           }
         },
         {
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195907419,
             "language": "Python",
             "last_commit": "2026-07-21T11:30:52Z",
             "owner": "AweAI-Team",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901454241,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-10T20:11:13Z",
             "owner": "PouriaRouzrokh",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 993012542,
             "language": "Python",
             "last_commit": "2025-06-21T18:17:12Z",
             "owner": "MASWorks",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846824699,
             "language": "Python",
             "last_commit": "2025-03-30T04:15:55Z",
             "owner": "du-nlp-lab",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 916510004,
             "language": "Python",
             "last_commit": "2025-08-24T11:34:59Z",
             "owner": "JinheonBaek",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968696880,
             "language": "Python",
             "last_commit": "2026-05-07T19:50:43Z",
             "owner": "LitLLM",
@@ -632,11 +676,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1273471983,
             "language": "Python",
             "last_commit": "2026-08-18T00:56:40Z",
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -646,8 +691,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1190567416,
             "language": "Python",
-            "last_commit": "2026-08-18T12:23:30Z",
+            "last_commit": "2026-08-19T03:02:30Z",
             "owner": "kaust-ark",
             "repo": "ARK",
             "stars": 33
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1299248993,
             "language": "Python",
             "last_commit": "2026-07-14T11:01:22Z",
             "owner": "happyhappy-jun",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 814878405,
             "language": "TypeScript",
             "last_commit": "2026-04-27T09:00:24Z",
             "owner": "openags",
@@ -685,7 +733,7 @@
       "title": "🔬 Research-agent systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -694,11 +742,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174820787,
             "language": "Python",
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94060
+            "stars": 94133
           }
         },
         {
@@ -708,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175560110,
             "language": "Python",
             "last_commit": "2026-03-17T22:39:09Z",
             "owner": "miolini",
@@ -722,11 +772,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175937361,
             "language": "Python",
             "last_commit": "2026-07-02T13:49:49Z",
             "owner": "trevin-creator",
             "repo": "autoresearch-mlx",
-            "stars": 1805
+            "stars": 1807
           }
         },
         {
@@ -736,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176347858,
             "language": "Python",
             "last_commit": "2026-03-14T17:47:24Z",
             "owner": "jsegov",
@@ -750,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180433652,
             "language": "TypeScript",
             "last_commit": "2026-05-04T14:42:19Z",
             "owner": "gianfrancopiana",
@@ -764,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178764397,
             "language": "Python",
             "last_commit": "2026-04-18T23:22:43Z",
             "owner": "iii-experimental",
@@ -778,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181268512,
             "language": "TypeScript",
             "last_commit": "2026-03-16T16:01:49Z",
             "owner": "lucasgelfond",
@@ -792,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175722489,
             "language": "Python",
             "last_commit": "2026-03-09T16:12:09Z",
             "owner": "tonitangpotato",
@@ -806,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177018591,
             "language": "Python",
             "last_commit": "2026-03-17T04:10:09Z",
             "owner": "ArmanJR-Lab",
@@ -817,7 +874,7 @@
       "title": "💻 Platform ports and hardware forks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -826,11 +883,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179164349,
             "language": "Python",
             "last_commit": "2026-05-27T19:40:53Z",
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 2082
+            "stars": 2085
           }
         },
         {
@@ -840,11 +898,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178353904,
             "language": "Python",
             "last_commit": "2026-03-19T03:13:43Z",
             "owner": "RightNow-AI",
             "repo": "autokernel",
-            "stars": 1529
+            "stars": 1531
           }
         },
         {
@@ -854,11 +913,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185560597,
             "language": "Ruby",
             "last_commit": "2026-06-30T03:46:55Z",
             "owner": "mattprusak",
             "repo": "autoresearch-genealogy",
-            "stars": 1162
+            "stars": 1163
           }
         },
         {
@@ -868,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182292944,
             "language": "Python",
             "last_commit": "2026-05-21T14:25:31Z",
             "owner": "ArchishmanSengupta",
@@ -882,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1218242169,
             "language": "HTML",
             "last_commit": "2026-08-10T23:39:26Z",
             "owner": "vlasenkoalexey",
@@ -896,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1267799183,
             "language": "Python",
             "last_commit": "2026-08-16T10:01:32Z",
             "owner": "ElliotXie",
@@ -910,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211822946,
             "language": "Python",
             "last_commit": "2026-04-28T22:29:57Z",
             "owner": "Agent-Analytics",
@@ -924,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1187567896,
             "language": "Rust",
             "last_commit": "2026-03-21T05:53:57Z",
             "owner": "Rkcr7",
@@ -938,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195814762,
             "language": "Python",
             "last_commit": "2026-03-30T04:58:32Z",
             "owner": "jeongph",
@@ -949,7 +1015,7 @@
       "title": "🎯 Domain-specific adaptations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -958,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671759870,
             "language": "Python",
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
@@ -972,11 +1039,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 869660918,
             "language": "Python",
             "last_commit": "2026-04-24T17:33:44Z",
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1699
+            "stars": 1700
           }
         },
         {
@@ -986,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684903423,
             "language": "Python",
             "last_commit": "2024-06-19T13:53:23Z",
             "owner": "snap-stanford",
@@ -1000,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719415913,
             "language": "Python",
             "last_commit": "2025-07-31T08:53:58Z",
             "owner": "gersteinlab",
@@ -1014,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 983518557,
             "language": "Python",
             "last_commit": "2026-05-08T11:03:30Z",
             "owner": "chchenhui",
@@ -1025,7 +1096,7 @@
       "title": "📊 Evaluation & benchmarks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1034,11 +1105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15435,
             "language": "Ruby",
             "last_commit": "2026-08-07T16:30:57Z",
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11862
+            "stars": 11863
           }
         },
         {
@@ -1048,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182916672,
             "language": "Python",
             "last_commit": "2026-03-17T12:37:54Z",
             "owner": "buildoak",
@@ -1068,11 +1141,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1154407752,
             "language": null,
             "last_commit": "2026-08-17T12:13:09Z",
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1691
+            "stars": 1692
           }
         },
         {
@@ -1082,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 886448921,
             "language": "Python",
             "last_commit": "2026-08-16T10:08:02Z",
             "owner": "masamasa59",
@@ -1096,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692466689,
             "language": null,
             "last_commit": "2026-06-24T17:03:27Z",
             "owner": "tmgthb",
@@ -1110,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1188845498,
             "language": null,
             "last_commit": "2026-07-30T21:24:08Z",
             "owner": "WecoAI",
@@ -1124,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952507917,
             "language": null,
             "last_commit": "2025-09-18T18:48:52Z",
             "owner": "WuizaKaseiyo",
@@ -1138,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 986407506,
             "language": null,
             "last_commit": "2026-07-03T14:51:48Z",
             "owner": "HKUST-KnowComp",
@@ -1152,11 +1231,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 944384628,
             "language": null,
             "last_commit": "2026-08-12T07:19:33Z",
             "owner": "YoungDubbyDu",
             "repo": "Awesome-LLM-Agent-Optimization-Papers",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -1166,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859617764,
             "language": null,
             "last_commit": "2026-06-25T06:32:08Z",
             "owner": "openags",
@@ -1175,16 +1256,12 @@
         }
       ],
       "title": "📚 Related resources"
-    },
-    {
-      "description": "This list is released under CC0-1.0.",
-      "items": [],
-      "title": "📄 License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:43:52.718Z",
+    "last_updated": "2026-08-19T12:19:31.897Z",
     "original_repository": "webfuse-com/awesome-autoresearch",
+    "original_repository_id": 1187150337,
     "original_repository_sha": "54262586685a3f8b4f287543b4122b0e870236ab",
     "enhanced_repository": "enhansome/enhansome-autoresearch",
     "enhanced_repository_description": null,
