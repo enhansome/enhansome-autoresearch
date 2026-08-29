@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
+            "homepage": "http://orchestra-research.com",
             "id": 1088558237,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-06-16T01:36:46Z",
+            "open_issues": 20,
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 12130
+            "stars": 12132,
+            "topics": [
+              "ai",
+              "ai-research",
+              "claude",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "gemini",
+              "gpt-5",
+              "grpo",
+              "huggingface",
+              "machine-leanring",
+              "megatron",
+              "skills",
+              "vllm"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -26,12 +46,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous experiment loop extension for pi",
+            "homepage": null,
             "id": 1179229480,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-15T13:50:35Z",
+            "open_issues": 14,
             "owner": "davebcn87",
             "repo": "pi-autoresearch",
-            "stars": 7894
+            "stars": 7896,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
+            "homepage": "https://gepa-ai.github.io/gepa/",
             "id": 1032419366,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:31:18Z",
+            "open_issues": 119,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6277
+            "stars": 6278,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -58,12 +88,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+            "homepage": "https://udit.co/projects/autoresearch",
             "id": 1180917769,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-12T22:28:18Z",
+            "open_issues": 3,
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 5955
+            "stars": 5956,
+            "topics": [
+              "ai",
+              "autonomous-agent",
+              "autoresearch",
+              "claude",
+              "claude-code",
+              "iteration",
+              "karpathy",
+              "productivity",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -74,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"ClawTeam: Agent Swarm Intelligence\" (One Command → Full Automation)",
+            "homepage": null,
             "id": 1184391618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-09T07:25:56Z",
+            "open_issues": 37,
             "owner": "HKUDS",
             "repo": "ClawTeam",
-            "stars": 5518
+            "stars": 5518,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -90,12 +140,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+            "homepage": null,
             "id": 1184866064,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T13:53:30Z",
+            "open_issues": 1,
             "owner": "leo-lilinxiao",
             "repo": "codex-autoresearch",
-            "stars": 2283
+            "stars": 2283,
+            "topics": [
+              "automation",
+              "autonomous-agent",
+              "autoresearch",
+              "codex",
+              "codex-cli",
+              "codex-skill",
+              "developer-tools",
+              "iteration",
+              "openai",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -106,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2025] Automated Design of Agentic Systems",
+            "homepage": "https://www.shengranhu.com/ADAS/",
             "id": 836330793,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-28T06:37:51Z",
+            "open_issues": 11,
             "owner": "ShengranHu",
             "repo": "ADAS",
-            "stars": 1631
+            "stars": 1631,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -122,12 +193,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench.",
+            "homepage": "https://weco.ai",
             "id": 781524183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:23:43Z",
+            "open_issues": 3,
             "owner": "WecoAI",
             "repo": "aideml",
-            "stars": 1496
+            "stars": 1496,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "automated-machine-learning",
+              "autonomous-agents",
+              "autoresearch",
+              "code-optimization",
+              "data-science",
+              "llm",
+              "machine-learning",
+              "self-improving-ai"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -138,12 +225,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task",
+            "homepage": null,
             "id": 1155776799,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:17:52Z",
+            "open_issues": 17,
             "owner": "greyhaven-ai",
             "repo": "autocontext",
-            "stars": 1288
+            "stars": 1288,
+            "topics": [
+              "agents",
+              "ai",
+              "autoresearch",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llms",
+              "ml",
+              "openclaw",
+              "pi",
+              "pi-coding-agent"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -154,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EvoSkill — An open-source framework that automatically discovers and synthesizes reusable agent skills from failed trajectories to improve coding agent performance.",
+            "homepage": null,
             "id": 1172896941,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T23:18:46Z",
+            "open_issues": 15,
             "owner": "sentient-agi",
             "repo": "EvoSkill",
-            "stars": 1147
+            "stars": 1147,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -170,12 +281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1146572108,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-06T06:53:05Z",
+            "open_issues": 3,
             "owner": "pskoett",
             "repo": "self-improving-agent",
-            "stars": 738
+            "stars": 738,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -186,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1177343789,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-13T01:13:40Z",
+            "open_issues": 1,
             "owner": "mutable-state-inc",
             "repo": "autoresearch-at-home",
-            "stars": 496
+            "stars": 496,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -202,12 +323,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧬 The Huxley-Gödel Machine",
+            "homepage": null,
             "id": 1082563722,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-07T21:30:42Z",
+            "open_issues": 5,
             "owner": "metauto-ai",
             "repo": "HGM",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "coding-agents",
+              "goedel-machine",
+              "self-improvement"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -218,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent framework, that works on its own codebase.",
+            "homepage": null,
             "id": 964814692,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-23T23:28:42Z",
+            "open_issues": 3,
             "owner": "MaximeRobeyns",
             "repo": "self_improving_coding_agent",
-            "stars": 389
+            "stars": 389,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -234,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch",
+            "homepage": null,
             "id": 1180304182,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-05T05:27:53Z",
+            "open_issues": 0,
             "owner": "drivelineresearch",
             "repo": "autoresearch-claude-code",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -250,12 +390,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪞 Make your agents recursively self-improve",
+            "homepage": "https://kayba.ai/",
             "id": 1194570484,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-31T23:03:57Z",
+            "open_issues": 3,
             "owner": "kayba-ai",
             "repo": "recursive-improve",
-            "stars": 250
+            "stars": 250,
+            "topics": [
+              "agent-learning",
+              "agents",
+              "ai",
+              "ai-agent",
+              "ai-tools",
+              "llm",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -266,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics.",
+            "homepage": null,
             "id": 1179553355,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-03T22:09:41Z",
+            "open_issues": 0,
             "owner": "jmilinovich",
             "repo": "goal-md",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -282,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1176535923,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-09T05:42:05Z",
+            "open_issues": 0,
             "owner": "zkarimi22",
             "repo": "autoresearch-anything",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -298,12 +461,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
+            "homepage": null,
             "id": 1232710515,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T15:01:41Z",
+            "open_issues": 34,
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "agent-memory",
+              "agent-observability",
+              "ai-agents",
+              "bun",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "effect-ts",
+              "evidence-graph",
+              "llm-observability",
+              "surrealdb",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -314,12 +495,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐦 Thoth — Dashboard-First Orchestration Runtime for Autoresearch",
+            "homepage": null,
             "id": 1219710688,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T18:25:14Z",
+            "open_issues": 2,
             "owner": "SeeleAI",
             "repo": "Thoth",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "agent",
+              "autoresearch",
+              "claude-code",
+              "codex",
+              "dashboard",
+              "harness",
+              "orchestration",
+              "plugin",
+              "skills",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -330,12 +527,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous goal-directed iteration for Gemini CLI. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+            "homepage": null,
             "id": 1191483618,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-27T10:37:37Z",
+            "open_issues": 0,
             "owner": "supratikpm",
             "repo": "gemini-autoresearch",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "ai-agent",
+              "autonomous-agent",
+              "autoresearch",
+              "gemini",
+              "gemini-cli",
+              "karpathy",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -346,12 +556,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent evolving strategies through automated self-play overnight. Generic framework with GEPA-inspired feedback loop and Elo tracking.",
+            "homepage": null,
             "id": 1178394202,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T17:02:22Z",
+            "open_issues": 0,
             "owner": "MrTsepa",
             "repo": "autoevolve",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "agent-evals",
+              "ai-agents",
+              "autonomous-agents",
+              "evolutionary-algorithms",
+              "game-ai",
+              "genetic-algorithm",
+              "llm-agents",
+              "prompt-optimization",
+              "python",
+              "self-play"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -362,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1188401129,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-04T08:16:32Z",
+            "open_issues": 0,
             "owner": "vukrosic",
             "repo": "auto-research",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -378,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized cross-platform expansion of autoresearch.",
+            "homepage": null,
             "id": 1177375645,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-23T02:38:18Z",
+            "open_issues": 0,
             "owner": "Entrpi",
             "repo": "autoresearch-everywhere",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -394,12 +630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1191789009,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-31T13:48:55Z",
+            "open_issues": 0,
             "owner": "james-s-tayler",
             "repo": "lazy-developer",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -410,12 +651,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap safe, auditable autonomous research loops in existing Git projects.",
+            "homepage": null,
             "id": 1301311766,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T16:14:14Z",
+            "open_issues": 0,
             "owner": "junjunjunbong",
             "repo": "research-loop",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "autonomous-research",
+              "codex",
+              "research-tools"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -432,12 +683,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+            "homepage": null,
             "id": 1177608268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:30:40Z",
+            "open_issues": 62,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 15391
+            "stars": 15401,
+            "topics": [
+              "ai-research",
+              "ai-tools",
+              "aris",
+              "autonomous-agent",
+              "claude",
+              "claude-code",
+              "claude-code-skills",
+              "codex",
+              "deep-learning",
+              "gpt",
+              "idea-generation",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "mcp-server",
+              "ml-research",
+              "openai",
+              "paper-review",
+              "paper-writing",
+              "research-automation"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -448,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
+            "homepage": null,
             "id": 841376583,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-19T07:46:21Z",
+            "open_issues": 119,
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14455
+            "stars": 14457,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -464,12 +746,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+            "homepage": null,
             "id": 1182108611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T03:35:13Z",
+            "open_issues": 8,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14268
+            "stars": 14270,
+            "topics": [
+              "autonomous-research",
+              "citation-verification",
+              "llm-agents",
+              "metaclaw",
+              "multi-agent-debate",
+              "openclaw",
+              "paper-generation",
+              "scientific-discovery",
+              "self-evolving"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -480,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+            "homepage": null,
             "id": 962431643,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-19T07:46:32Z",
+            "open_issues": 78,
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7058
+            "stars": 7058,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -496,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+            "homepage": null,
             "id": 913598542,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-20T21:46:43Z",
+            "open_issues": 59,
             "owner": "SamuelSchmidgall",
             "repo": "AgentLaboratory",
-            "stars": 5810
+            "stars": 5812,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -512,12 +819,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+            "homepage": "https://arxiv.org/abs/2505.18705",
             "id": 946632749,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-16T06:47:34Z",
+            "open_issues": 67,
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5704
+            "stars": 5705,
+            "topics": [
+              "ai-researcher"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -528,12 +842,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+            "homepage": "https://agents.hyper.space/",
             "id": 1176335208,
             "language": null,
-            "last_commit": "2026-08-28T22:39:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:23:45Z",
+            "open_issues": 23,
             "owner": "hyperspaceai",
             "repo": "agi",
-            "stars": 2032
+            "stars": 2032,
+            "topics": [
+              "agi",
+              "ai-agents",
+              "ai-research",
+              "artificial-general-intelligence",
+              "autonomous-agents",
+              "autonomous-agents-",
+              "autoresearch",
+              "collaborative-ai",
+              "decentralized",
+              "distributed-ai",
+              "llm",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -544,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
+            "homepage": null,
             "id": 1206036567,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:54Z",
+            "open_issues": 3,
             "owner": "skyllwt",
             "repo": "AutoSci",
-            "stars": 1653
+            "stars": 1654,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -560,12 +897,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦞+🔬 NanoResearch: The Autonomous AI Research Assistant",
+            "homepage": null,
             "id": 1184170771,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:28:09Z",
+            "open_issues": 7,
             "owner": "OpenRaiser",
             "repo": "NanoResearch",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "agent-skills",
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-scientist",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "claude-skills",
+              "nanobot",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -576,12 +932,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi-agent evolution. Accepted at COLM 2026.",
+            "homepage": "https://coral.compounding-intelligence.ai",
             "id": 1183057754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T02:42:55Z",
+            "open_issues": 18,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "agent-framework",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "alpha-evolve",
+              "autonomous-agents",
+              "autoresearch",
+              "claude-code",
+              "code-generation",
+              "codex",
+              "coding-agent",
+              "evolutionary-algorithm",
+              "large-language-models",
+              "llm-agents",
+              "multi-agent",
+              "open-source",
+              "opencode",
+              "scientific-discovery",
+              "self-evolving",
+              "self-evolving-agents"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -592,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Automating scientific workflows with AI ⚡",
+            "homepage": null,
             "id": 625373319,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-15T17:05:09Z",
+            "open_issues": 6,
             "owner": "eimenhmdt",
             "repo": "autoresearcher",
-            "stars": 442
+            "stars": 442,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -608,12 +995,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code",
+            "homepage": null,
             "id": 1176132782,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T04:32:57Z",
+            "open_issues": 1,
             "owner": "Sibyl-Research-Team",
             "repo": "AutoResearch-SibylSystem",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "ai-agent",
+              "ai-for-science",
+              "ai-scientist",
+              "automated-science",
+              "autonomous-agents",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "deepresearch",
+              "experiment-execution",
+              "gpu-scheduling",
+              "llm-agents",
+              "mcp",
+              "multi-agent-system",
+              "paper-generation",
+              "research-automation",
+              "scientific-discovery",
+              "self-evolving",
+              "self-healing",
+              "vibe-research"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -624,12 +1037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1195907419,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:30:52Z",
+            "open_issues": 0,
             "owner": "AweAI-Team",
             "repo": "AiScientist",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -640,12 +1058,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repository for the LatteReview python package. LatteReview is a low-code Python package designed to automate systematic literature review processes through AI-powered agents.",
+            "homepage": "https://pouriarouzrokh.github.io/LatteReview",
             "id": 901454241,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T20:11:13Z",
+            "open_issues": 4,
             "owner": "PouriaRouzrokh",
             "repo": "LatteReview",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "ai",
+              "deep-learning",
+              "large-language-models",
+              "multi-agent",
+              "multi-agent-systems",
+              "multiagent",
+              "review",
+              "review-tools"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -656,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of \"ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering\"",
+            "homepage": null,
             "id": 993012542,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-21T18:17:12Z",
+            "open_issues": 2,
             "owner": "MASWorks",
             "repo": "ML-Agent",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -672,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 846824699,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-30T04:15:55Z",
+            "open_issues": 0,
             "owner": "du-nlp-lab",
             "repo": "MLR-Copilot",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -688,12 +1130,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code Repository for ResearchAgent (NAACL 2025)",
+            "homepage": "https://arxiv.org/abs/2404.07738",
             "id": 916510004,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-24T11:34:59Z",
+            "open_issues": 4,
             "owner": "JinheonBaek",
             "repo": "ResearchAgent",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "researchagent"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -704,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered literature review assistant for researchers",
+            "homepage": "https://litllm.onrender.com",
             "id": 968696880,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-07T19:50:43Z",
+            "open_issues": 4,
             "owner": "LitLLM",
             "repo": "LitLLM",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -720,12 +1174,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin for autonomous AI research — multi-agent loops take a bare topic all the way to running experiments, with no human-written experimental code.",
+            "homepage": "https://haizhaoyang.github.io/research/autoresearch.html",
             "id": 1273471983,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:21:53Z",
+            "open_issues": 1,
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "ai-scientist",
+              "automated-research",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "claude-code-plugin",
+              "deep-research",
+              "literature-review",
+              "llm-agents",
+              "multi-agent",
+              "prompt-economy",
+              "research-agent",
+              "research-automation",
+              "scientific-discovery"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -736,12 +1213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic Research Kit",
+            "homepage": "https://idea2paper.org/",
             "id": 1190567416,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T06:34:50Z",
+            "open_issues": 1,
             "owner": "kaust-ark",
             "repo": "ARK",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -752,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent harness + complete run record of the 1st-place entry at Ralphthon@ICML2026 — three AI agents wrote a workshop paper in 3 hours",
+            "homepage": null,
             "id": 1299248993,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T11:01:22Z",
+            "open_issues": 0,
             "owner": "happyhappy-jun",
             "repo": "writing-driven-autoresearch",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -768,12 +1255,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto Research with UI. Autonomous Generalist Scientist / AI Scientist / Agent Scientist / Robot Scientist, across all Scientific Fields.",
+            "homepage": "https://openags.com/",
             "id": 814878405,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T09:00:24Z",
+            "open_issues": 0,
             "owner": "openags",
             "repo": "auto-researcher",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-scientist",
+              "artificial-intelligence",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -790,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94863
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -806,12 +1307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically adopted for MacOS",
+            "homepage": null,
             "id": 1175560110,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-17T22:39:09Z",
+            "open_issues": 8,
             "owner": "miolini",
             "repo": "autoresearch-macos",
-            "stars": 2377
+            "stars": 2377,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -822,12 +1328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
+            "homepage": null,
             "id": 1175937361,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T13:49:49Z",
+            "open_issues": 16,
             "owner": "trevin-creator",
             "repo": "autoresearch-mlx",
-            "stars": 1814
+            "stars": 1815,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -838,12 +1349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1176347858,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-14T17:47:24Z",
+            "open_issues": 6,
             "owner": "jsegov",
             "repo": "autoresearch-win-rtx",
-            "stars": 716
+            "stars": 716,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -854,12 +1370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous experiment loop plugin for OpenClaw",
+            "homepage": null,
             "id": 1180433652,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-04T14:42:19Z",
+            "open_issues": 0,
             "owner": "gianfrancopiana",
             "repo": "openclaw-autoresearch",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -870,12 +1391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous ML research infrastructure for autoresearch by Karpathy. Multi-GPU parallelism, structured experiment tracking, adaptive search strategy.",
+            "homepage": null,
             "id": 1178764397,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-18T23:22:43Z",
+            "open_issues": 1,
             "owner": "iii-experimental",
             "repo": "n-autoresearch",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -886,12 +1412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let AI agents run research experiments + train small language models (in your browser!)",
+            "homepage": "https://autoresearch.lucasgelfond.online/",
             "id": 1181268512,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-16T16:01:49Z",
+            "open_issues": 4,
             "owner": "lucasgelfond",
             "repo": "autoresearch-webgpu",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -902,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy's autoresearch + cognitive memory (Engram). Your AI researcher now remembers what worked.",
+            "homepage": null,
             "id": 1175722489,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-09T16:12:09Z",
+            "open_issues": 0,
             "owner": "tonitangpotato",
             "repo": "autoresearch-engram",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -918,12 +1454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(mad) AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1177018591,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-17T04:10:09Z",
+            "open_issues": 0,
             "owner": "ArmanJR-Lab",
             "repo": "autoautoresearch",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -940,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+            "homepage": null,
             "id": 1179164349,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T19:40:53Z",
+            "open_issues": 4,
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 2089
+            "stars": 2089,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -956,12 +1502,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+            "homepage": "https://www.rightnowai.co/forge",
             "id": 1178353904,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-19T03:13:43Z",
+            "open_issues": 16,
             "owner": "RightNow-AI",
             "repo": "autokernel",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "autoresearch",
+              "cuda",
+              "gpu",
+              "kernel-optimization",
+              "pytorch",
+              "triton"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -972,12 +1530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+            "homepage": null,
             "id": 1185560597,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T03:46:55Z",
+            "open_issues": 0,
             "owner": "mattprusak",
             "repo": "autoresearch-genealogy",
-            "stars": 1167
+            "stars": 1167,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -988,12 +1551,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-improving loop for voice AI agents. Uses karpathy's autoresearch as foundation.",
+            "homepage": null,
             "id": 1182292944,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-21T14:25:31Z",
+            "open_issues": 3,
             "owner": "ArchishmanSengupta",
             "repo": "autovoiceevals",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "autoresearch",
+              "claude",
+              "smallest-ai",
+              "system-prompt-optimization",
+              "voice-agents",
+              "voice-ai"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1004,12 +1579,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wiki built using Karpathy method containing information about TPU performance optimizations and hooking it up to autoresearch optimization engine",
+            "homepage": "https://vlasenkoalexey.github.io/tags/autoresearch/",
             "id": 1218242169,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:31:49Z",
+            "open_issues": 0,
             "owner": "vlasenkoalexey",
             "repo": "tpu_performance_autoresearch_wiki",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "autoresearch",
+              "jax",
+              "knowledge-graph",
+              "llm",
+              "machine-learning",
+              "mfu",
+              "performance-optimization",
+              "pytorch-xla",
+              "tpu",
+              "xla"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1020,28 +1611,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous multi-agent framework to optimize scientific software",
+            "homepage": "https://www.autozyme.com",
             "id": 1267799183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T10:01:32Z",
+            "open_issues": 1,
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 49
-          },
-          "first_seen": "2026-08-28T22:56:01.241Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Agent-Analytics/autoresearch-growth",
-          "description": "Applies autoresearch to landing-page positioning and A/B test candidates, using analytics snapshots and measured experiment results to seed subsequent rounds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1211822946,
-            "language": "Python",
-            "last_commit": "2026-04-28T22:29:57Z",
-            "owner": "Agent-Analytics",
-            "repo": "autoresearch-growth",
-            "stars": 4
+            "stars": 49,
+            "topics": [
+              "acceleration",
+              "agentic-ai",
+              "ai-agents",
+              "bioinformatics",
+              "code-optimization",
+              "genomics",
+              "llm",
+              "performance-optimization",
+              "python",
+              "rstats",
+              "scanpy",
+              "scientific-computing",
+              "scrna-seq",
+              "seurat",
+              "single-cell",
+              "spatial-transcriptomics",
+              "speedup"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1052,12 +1650,46 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent (Claude Code) autonomously built the fastest sudoku solver on 4/6 standard benchmarks — beating Tdoku (#1 since 2019) by 49% and rust_sudoku (#2) by 82%. 312 experiments, 65,275x speedup, 709 lines of Rust, zero human-written solver code. Enhanced autoresearch pattern.",
+            "homepage": null,
             "id": 1187567896,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-21T05:53:57Z",
+            "open_issues": 0,
             "owner": "Rkcr7",
             "repo": "autoresearch-sudoku",
-            "stars": 4
+            "stars": 5,
+            "topics": [
+              "ai-agent",
+              "autoresearch",
+              "claude-code",
+              "karpathy",
+              "rust",
+              "sudoku",
+              "sudoku-solver"
+            ]
+          },
+          "first_seen": "2026-08-28T22:56:01.241Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Analytics/autoresearch-growth",
+          "description": "Applies autoresearch to landing-page positioning and A/B test candidates, using analytics snapshots and measured experiment results to seed subsequent rounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
+            "id": 1211822946,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-28T22:29:57Z",
+            "open_issues": 0,
+            "owner": "Agent-Analytics",
+            "repo": "autoresearch-growth",
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1068,12 +1700,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural-language specs to working code. Autonomous keep-or-revert loop reads business rules and iteratively builds a service.",
+            "homepage": null,
             "id": 1195814762,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-30T04:58:32Z",
+            "open_issues": 0,
             "owner": "jeongph",
             "repo": "autospec",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai-coding",
+              "autonomous-agents",
+              "autoresearch",
+              "claude-code",
+              "specification-driven",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -1090,12 +1734,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+            "homepage": null,
             "id": 671759870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-08T17:01:05Z",
+            "open_issues": 76,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3701
+            "stars": 3701,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1106,12 +1760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+            "homepage": "https://openai.com/index/mle-bench/",
             "id": 869660918,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T17:33:44Z",
+            "open_issues": 10,
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1724
+            "stars": 1724,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1122,12 +1781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 684903423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-19T13:53:23Z",
+            "open_issues": 6,
             "owner": "snap-stanford",
             "repo": "MLAgentBench",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1138,12 +1802,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code (https://arxiv.org/abs/2311.09835)",
+            "homepage": "https://ml-bench.github.io/",
             "id": 719415913,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-31T08:53:58Z",
+            "open_issues": 0,
             "owner": "gersteinlab",
             "repo": "ML-Bench",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "code-generation",
+              "gpt-4",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1154,12 +1827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025 D&B Track] MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research",
+            "homepage": "https://chchenhui.github.io/mlrbench/",
             "id": 983518557,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-08T11:03:30Z",
+            "open_issues": 0,
             "owner": "chchenhui",
             "repo": "mlrbench",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -1176,12 +1854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Liquid markup language. Safe, customer facing template language for flexible web apps. ",
+            "homepage": "https://shopify.github.io/liquid/",
             "id": 15435,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:29:31Z",
+            "open_issues": 423,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11872
+            "stars": 11872,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1192,12 +1875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy-style autonomous research loop for tennis match prediction. 245K matches, XGBoost + chess-inspired ELO. Includes the full story of how the loop learned to game its own evaluation gate.",
+            "homepage": null,
             "id": 1182916672,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-17T12:37:54Z",
+            "open_issues": 0,
             "owner": "buildoak",
             "repo": "tennis-xgboost-autoresearch",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -1214,12 +1902,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
+            "homepage": "https://starterkit.getdesign.md/",
             "id": 1154407752,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T10:52:38Z",
+            "open_issues": 0,
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1730
+            "stars": 1731,
+            "topics": [
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "llm",
+              "llm-agents",
+              "memory",
+              "rag",
+              "research-paper"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1230,12 +1932,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of AI Agents papers (Updated biweekly)",
+            "homepage": null,
             "id": 886448921,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T03:05:32Z",
+            "open_issues": 1,
             "owner": "masamasa59",
             "repo": "ai-agent-papers",
-            "stars": 1623
+            "stars": 1623,
+            "topics": [
+              "agents",
+              "llm",
+              "paper-list",
+              "planning",
+              "reasoning",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1246,12 +1960,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
+            "homepage": null,
             "id": 692466689,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-24T17:03:27Z",
+            "open_issues": 2,
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1372
+            "stars": 1372,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-harness",
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagent",
+              "aiagents",
+              "autonomous-agents",
+              "cognitive-agents",
+              "computer-use-agent",
+              "embodied-agent",
+              "generalist-agent",
+              "language-agent",
+              "llm",
+              "llm-agents",
+              "llmagents",
+              "research-paper"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1262,12 +2002,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of AutoResearch use cases with optimization traces and open source implementations",
+            "homepage": null,
             "id": 1188845498,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-30T21:24:08Z",
+            "open_issues": 2,
             "owner": "WecoAI",
             "repo": "awesome-autoresearch",
-            "stars": 1039
+            "stars": 1039,
+            "topics": [
+              "ai-agents",
+              "ai-research",
+              "automated-machine-learning",
+              "autonomous-agents",
+              "autoresearch",
+              "awesome",
+              "awesome-list",
+              "claude-code",
+              "code-optimization",
+              "curated-list",
+              "llm",
+              "self-improving-ai"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1278,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 952507917,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-18T18:48:52Z",
+            "open_issues": 10,
             "owner": "WuizaKaseiyo",
             "repo": "awesome-deep-research-agent",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1294,12 +2057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP2025] From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery",
+            "homepage": null,
             "id": 986407506,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-03T14:51:48Z",
+            "open_issues": 4,
             "owner": "HKUST-KnowComp",
             "repo": "Awesome-LLM-Scientific-Discovery",
-            "stars": 433
+            "stars": 433,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1310,12 +2078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the reading list for the survey \"A Survey on the Optimization of LLM-based Agents \". We will keep adding papers and improving the list. Any suggestions and PRs are welcome!",
+            "homepage": null,
             "id": 944384628,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-12T07:19:33Z",
+            "open_issues": 1,
             "owner": "YoungDubbyDu",
             "repo": "Awesome-LLM-Agent-Optimization-Papers",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         },
@@ -1326,12 +2099,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources and papers on AI Scientist / Robot Scientist",
+            "homepage": null,
             "id": 859617764,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-25T06:32:08Z",
+            "open_issues": 7,
             "owner": "openags",
             "repo": "Awesome-AI-Scientist-Papers",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "ai-scientist",
+              "ai4s",
+              "robot-scientist"
+            ]
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
         }
@@ -1340,15 +2122,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:56:01.241Z",
+    "last_updated": "2026-08-29T04:25:31.516Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+      "homepage": "https://www.webfuse.com/autoresearch",
       "id": 1187150337,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-10T11:34:18Z",
+      "open_issues": 8,
       "owner": "webfuse-com",
       "repo": "awesome-autoresearch",
-      "stars": 2501
+      "stars": 2502,
+      "topics": [
+        "agentic-systems",
+        "ai-agents",
+        "ai-research",
+        "ai-tools",
+        "autonomous-agents",
+        "autoresearch",
+        "awesome-list",
+        "claude-code",
+        "experiment-loops",
+        "karpathy",
+        "karpathy-inspired",
+        "llm-agents",
+        "research-agents",
+        "scientific-discovery",
+        "self-improving-systems"
+      ]
     },
     "original_repository_sha": "54262586685a3f8b4f287543b4122b0e870236ab",
     "enhanced_repository": "enhansome/enhansome-autoresearch",
