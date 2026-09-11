@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 12512,
+            "stars": 12564,
             "topics": [
               "ai",
               "ai-research",
@@ -55,7 +55,7 @@
             "open_issues": 7,
             "owner": "davebcn87",
             "repo": "pi-autoresearch",
-            "stars": 8034,
+            "stars": 8039,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -72,11 +72,11 @@
             "id": 1032419366,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-08T02:23:23Z",
+            "last_commit": "2026-09-11T06:04:59Z",
             "open_issues": 123,
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6509,
+            "stars": 6522,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -97,7 +97,7 @@
             "open_issues": 4,
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 6271,
+            "stars": 6290,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -128,7 +128,7 @@
             "open_issues": 34,
             "owner": "HKUDS",
             "repo": "ClawTeam",
-            "stars": 5532,
+            "stars": 5533,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -149,7 +149,7 @@
             "open_issues": 1,
             "owner": "leo-lilinxiao",
             "repo": "codex-autoresearch",
-            "stars": 2475,
+            "stars": 2483,
             "topics": [
               "automation",
               "autonomous-agent",
@@ -202,7 +202,7 @@
             "open_issues": 3,
             "owner": "WecoAI",
             "repo": "aideml",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "ai",
               "ai-agents",
@@ -269,7 +269,7 @@
             "open_issues": 17,
             "owner": "sentient-agi",
             "repo": "EvoSkill",
-            "stars": 1176,
+            "stars": 1180,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -290,7 +290,7 @@
             "open_issues": 3,
             "owner": "pskoett",
             "repo": "self-improving-agent",
-            "stars": 748,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -399,7 +399,7 @@
             "open_issues": 4,
             "owner": "kayba-ai",
             "repo": "recursive-improve",
-            "stars": 254,
+            "stars": 256,
             "topics": [
               "agent-learning",
               "agents",
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "jmilinovich",
             "repo": "goal-md",
-            "stars": 155,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -467,10 +467,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-08T15:30:30Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "agent-memory",
               "agent-observability",
@@ -618,7 +618,7 @@
             "open_issues": 0,
             "owner": "Entrpi",
             "repo": "autoresearch-everywhere",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -688,11 +688,11 @@
             "id": 1177608268,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T16:20:02Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-11T04:02:49Z",
+            "open_issues": 69,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 15977,
+            "stars": 16026,
             "topics": [
               "ai-research",
               "ai-tools",
@@ -734,7 +734,7 @@
             "open_issues": 119,
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14523,
+            "stars": 14531,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -755,7 +755,7 @@
             "open_issues": 10,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14390,
+            "stars": 14401,
             "topics": [
               "autonomous-research",
               "citation-verification",
@@ -786,7 +786,7 @@
             "open_issues": 78,
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7123,
+            "stars": 7127,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -807,7 +807,7 @@
             "open_issues": 59,
             "owner": "SamuelSchmidgall",
             "repo": "AgentLaboratory",
-            "stars": 5839,
+            "stars": 5843,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -828,7 +828,7 @@
             "open_issues": 65,
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5730,
+            "stars": 5732,
             "topics": [
               "ai-researcher"
             ]
@@ -847,7 +847,7 @@
             "id": 1176335208,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:46:26Z",
+            "last_commit": "2026-09-11T16:36:19Z",
             "open_issues": 23,
             "owner": "hyperspaceai",
             "repo": "agi",
@@ -941,7 +941,7 @@
             "open_issues": 20,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 972,
+            "stars": 974,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1183,7 +1183,7 @@
             "open_issues": 1,
             "owner": "AutoResearch-Factory",
             "repo": "Agon",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "agent-orchestration",
               "agentic-ai",
@@ -1218,7 +1218,7 @@
             "id": 1190567416,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T10:56:51Z",
+            "last_commit": "2026-09-11T15:47:00Z",
             "open_issues": 1,
             "owner": "kaust-ark",
             "repo": "ARK",
@@ -1264,7 +1264,7 @@
             "open_issues": 0,
             "owner": "openags",
             "repo": "auto-researcher",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-scientist",
               "artificial-intelligence",
@@ -1295,7 +1295,7 @@
             "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 95551,
+            "stars": 95605,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1316,7 +1316,7 @@
             "open_issues": 8,
             "owner": "miolini",
             "repo": "autoresearch-macos",
-            "stars": 2385,
+            "stars": 2386,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1337,7 +1337,7 @@
             "open_issues": 16,
             "owner": "trevin-creator",
             "repo": "autoresearch-mlx",
-            "stars": 1823,
+            "stars": 1824,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1358,7 +1358,7 @@
             "open_issues": 6,
             "owner": "jsegov",
             "repo": "autoresearch-win-rtx",
-            "stars": 721,
+            "stars": 722,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1511,7 +1511,7 @@
             "open_issues": 16,
             "owner": "RightNow-AI",
             "repo": "autokernel",
-            "stars": 1555,
+            "stars": 1556,
             "topics": [
               "autoresearch",
               "cuda",
@@ -1743,7 +1743,7 @@
             "open_issues": 77,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3722,
+            "stars": 3724,
             "topics": [
               "chatgpt",
               "gpt-4",
@@ -1769,7 +1769,7 @@
             "open_issues": 11,
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1738,
+            "stars": 1739,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1860,10 +1860,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-08-27T16:29:31Z",
-            "open_issues": 425,
+            "open_issues": 426,
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11876,
+            "stars": 11880,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -1908,10 +1908,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-05T08:06:51Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1765,
+            "stars": 1770,
             "topics": [
               "ai-agents",
               "awesome",
@@ -1969,7 +1969,7 @@
             "open_issues": 2,
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "agent",
               "agent-context",
@@ -2066,7 +2066,7 @@
             "open_issues": 4,
             "owner": "HKUST-KnowComp",
             "repo": "Awesome-LLM-Scientific-Discovery",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-28T22:56:01.241Z"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:55:14.676Z",
+    "last_updated": "2026-09-11T16:57:00.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
@@ -2134,7 +2134,7 @@
       "open_issues": 8,
       "owner": "webfuse-com",
       "repo": "awesome-autoresearch",
-      "stars": 2520,
+      "stars": 2521,
       "topics": [
         "agentic-systems",
         "ai-agents",
